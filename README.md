@@ -3,19 +3,11 @@ CPU Scheduling Simulator
 This project is a Python-based CPU Scheduling Simulator that demonstrates how different CPU scheduling algorithms manage processes in an operating system. 
 
 Algorithms:
-FCFS
-SJF
-SRT
-Round Robin (RR)
-Priority Scheduling
-Priority Round Robin
+FCFS,SJF,SRT,Round Robin (RR),Priority Scheduling,Priority Round Robin
 
 The simulator calculates:
 
-Waiting Time
-Turnaround Time
-Completion Time
-Average Waiting and Turnaround Time
+Waiting time,turnaround time,completion time,average waiting and turnaround time
 
 How to Run
 
